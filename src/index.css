@@ -33,7 +33,7 @@ body {
 
 .card {
   display: flex;
-  width: 500px;
+  width: 575px;
   height: 225px;
   gap: 1.5rem;
   padding: 1.5em;
@@ -85,6 +85,8 @@ h3 {
 
 .location-name {
   margin: 0 4px;
+  letter-spacing: .3em;
+  text-transform: uppercase;
 }
 
 .location-icon {
